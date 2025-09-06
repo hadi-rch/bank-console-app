@@ -13,16 +13,22 @@ Proyek ini sengaja dibuat untuk menjadi studi kasus penerapan 4 pilar utama OOP 
 Berikut adalah beberapa contoh tampilan saat aplikasi dijalankan.
 
 **1. Menu Utama Aplikasi**
+
 ![Menu Utama Aplikasi](docs/images/menu-utama.png)
 
 
 **2. Cek Saldo**
+
 ![Cek Saldo](docs/images/pilihan-1.png)
 
-**2. Contoh Alur Transfer Dana yang Sukses**
+
+**3. Contoh Alur Transfer Dana yang Sukses**
+
 ![Contoh Alur Transfer Dana](docs/images/pilihan-2.png)
 
-**3. Tampilan Semua Data Nasabah dan Rekening**
+
+**4. Tampilan Semua Data Nasabah dan Rekening**
+
 ![Tampilan Semua Data](docs/images/pilihan-3.png)
 
 ## Fitur Utama
